@@ -26,7 +26,7 @@ using geliartwebpage.Services;
 namespace geliartwebpage
 {
     public class Startup
-    {
+    { 
         public Startup(IHostingEnvironment env, IApplicationEnvironment appEnv)
         {
             // Setup configuration sources.
