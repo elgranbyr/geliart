@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "geliartwebpage"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-geliartwebpage-19415656-f802-4e17-b841-dd3e5ff2199c;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
