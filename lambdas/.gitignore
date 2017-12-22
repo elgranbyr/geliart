@@ -1,0 +1,16 @@
+.Python
+pyvenv.cfg
+.venv
+pip-selfcheck.json
+emulambda/
+.idea/
+include/
+lib/
+script/
+tcl/
+bin/
+local/
+*.pyc
+*.json
+man/
+request/
